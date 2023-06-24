@@ -1,0 +1,11 @@
+-- Giới thiệu string và mảng char(hạn chế của mảng char)
+-- Nhập xuất string
+-- Truy xuất string theo chỉ số và vòng lặp
+-- Các toán tử với string, phép +, phép so sánh, string.length()
+-- Một số hàm cơ bản với string
+	+ substr
+	+ insert
+	+ erase
+	+ so sánh bằng compare
+	+ find
+	+ replace
